@@ -4,6 +4,8 @@ _s
 ===
 This is my Start Theme edited from _Underscore
 
+style.css file
+
 TABLE OF CONTENTS:
 
 1.0 Reset /  Normalize
